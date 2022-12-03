@@ -1,7 +1,4 @@
 <html>
-<head>
-<title></title>
-</head>
 <body>
 <center><h2>NexCloud Website</h2>
 <br>
