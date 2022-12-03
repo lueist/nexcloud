@@ -5,6 +5,7 @@
 Developers:
 <br>
 (Ruu3f) Ruu3f - Made the base of the website
+  <br>
 (Ewasten) NoteyMC - Fixes the errors and makes the website better
 </center>
 </body>
