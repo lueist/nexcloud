@@ -7,7 +7,18 @@
  *
  * Copyright (c) 2016 Daniel Eden
  */
-
+html {
+  scroll-behavior: smooth;
+}
+.boxofcereal {
+		   background-image: url("https://cdn.discordapp.com/attachments/1042676382678917150/1047377351417278504/Gradient2.png");
+   height: 500px;
+   width: 100%;
+}
+.opcereal {
+	background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+}
 .animated {
   -webkit-animation-duration: 1s;
   animation-duration: 1s;
