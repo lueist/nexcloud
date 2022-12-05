@@ -11,9 +11,8 @@ html {
   scroll-behavior: smooth;
 }
 .boxofcereal {
-		   background-image: url("https://media.discordapp.net/attachments/1042676382678917150/1048927793792176128/Gradient2.jpg");
-   height: 500px;
-   width: 500%;
+background: rgb(255,255,255);
+background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(247,247,247,1) 35%, rgba(21,159,187,1) 100%);
 }
 .opcereal {
 	background: rgb(2,0,36);
