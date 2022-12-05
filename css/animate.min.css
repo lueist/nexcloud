@@ -40,8 +40,13 @@ background: linear-gradient(270deg, #00f9b9, #0094d9);
     100%{background-position:0% 50%}
 }
 .opcereal {
-	background: rgb(2,0,36);
-background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+background: linear-gradient(270deg, #00f9b9, #0094d9);
+    background-size: 400% 400%;
+
+    -webkit-animation: AnimationName 30s ease infinite;
+    -moz-animation: AnimationName 30s ease infinite;
+    -o-animation: AnimationName 30s ease infinite;
+    animation: AnimationName 30s ease infinite;
 }
 .animated {
   -webkit-animation-duration: 1s;
