@@ -11,7 +11,7 @@ html {
   scroll-behavior: smooth;
 }
 .opcereal {
-    background: linear-gradient(273deg, #ffffff, #235872, #0075be, #ffffff, #1e9cd7, #235872, #005b97);
+    background: linear-gradient(273deg, #235872, #0075be, #1e9cd7, #235872, #005b97);
     background-size: 1400% 1400%;
 
     -webkit-animation: AnimationName 56s ease infinite;
@@ -19,7 +19,7 @@ html {
     animation: AnimationName 56s ease infinite;
 }
 .boxofcereal {
-    background: linear-gradient(273deg, #ffffff, #235872, #0075be, #ffffff, #1e9cd7, #235872, #005b97);
+    background: linear-gradient(273deg,  #235872, #0075be,  #1e9cd7, #235872, #005b97);
     background-size: 1400% 1400%;
 
     -webkit-animation: AnimationName 56s ease infinite;
