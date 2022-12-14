@@ -1,4 +1,6 @@
-This Project is no longer in use because of rebranding and new founder will miss it though
+The Mirrored Site For Nexcloud; For Preserve purposes only.
+https://lueist.github.io/nexcloud/
+With patches of love <3
 # Nexcloud Main Website (Deprecated)
 ### The Main Website for Nexcloud
 ### Developers:
